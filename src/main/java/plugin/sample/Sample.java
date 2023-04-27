@@ -66,5 +66,6 @@ public class Sample extends JavaPlugin implements Listener {
         count++;
     }
     //Minecraft sample plugin
+    //commitしました
 }
 
